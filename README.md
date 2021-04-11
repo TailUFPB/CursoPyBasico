@@ -2,14 +2,14 @@
 
 ## Módulo (I): Conceitos básicos
 
-- [ **Preparando o ambiente** ]()
+- [ **Preparando o ambiente** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb)
 - [ **Variáveis** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb#scrollTo=o0Rz3Y8GDd_A)
 - [ **Operadores** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb#scrollTo=L6EahdBfDd_R)
 - [ **Coleções** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb#scrollTo=7YT7kFO5Dd_X)
 - [ **Condições e Laços** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb#scrollTo=yxU58T8uDd_p)
-- [ **Funções** ]()
-- [ **Módulos e Importação** ]()
-- [ **Exercicios** ]()
+- [ **Funções** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb)
+- [ **Módulos e Importação** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb)
+- [ **Exercicios** ](https://colab.research.google.com/github/TailUFPB/CursoPyBasico/blob/main/notebooks/module01.ipynb)
 
 ## Módulo (II): Módulos importantes
 
