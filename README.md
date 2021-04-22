@@ -22,4 +22,4 @@
 
 ## Referências
 
-- [ **Python para Estatísticos** ](tmfilho.github.io/pyestbook)
+- [ **Python para Estatísticos** ](https://tmfilho.github.io/pyestbook/)
